@@ -9,7 +9,7 @@ let decr = 10;
 
 
 const isChecked = true;
-const isClose = false; //comment
+const isClose = false; //comment 2
 
 console.log(isChecked&&isClose);
 console.log(--decr);
