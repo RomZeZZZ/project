@@ -8,7 +8,7 @@ let decr = 10;
 // --decr;
 
 
-const isChecked = true;
+const isChecked = true;// comment 3
 const isClose = false; //comment 2
 
 console.log(isChecked&&isClose);
